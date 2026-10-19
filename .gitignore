@@ -47,3 +47,5 @@ result-*
 tags
 log
 .idea
+.cursor/rules/cyt-injection.mdc
+.cursor/cyt
